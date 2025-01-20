@@ -82,7 +82,7 @@ The system can be configured by modifying the following parameters:
 
 ## 👥 Authors
 
-- Your Name - [GitHub Profile](https://github.com/your-username)
+- Your Name -  ADITYA RAJ & [GitHub Profile](https://github.com/Aadisss008rn)
 
 ## 🙏 Acknowledgments
 
@@ -92,6 +92,4 @@ The system can be configured by modifying the following parameters:
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/your-username/sms-spam-detector](https://github.com/your-username/sms-spam-detector)
+Your Name - aadirajput6951@gmail.com
