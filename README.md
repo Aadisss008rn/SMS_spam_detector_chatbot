@@ -82,7 +82,7 @@ The system can be configured by modifying the following parameters:
 
 ## 👥 Authors
 
-- Your Name -  ADITYA RAJ & [GitHub Profile](https://github.com/Aadisss008rn)
+Name -  ADITYA RAJ & [GitHub Profile](https://github.com/Aadisss008rn)
 
 ## 🙏 Acknowledgments
 
@@ -92,4 +92,4 @@ The system can be configured by modifying the following parameters:
 
 ## 📧 Contact
 
-Your Name - aadirajput6951@gmail.com
+Mail - aadirajput6951@gmail.com
